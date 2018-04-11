@@ -1,2 +1,2 @@
 # udacity
-DeepLearning Google
+1. DeepLearning Google
